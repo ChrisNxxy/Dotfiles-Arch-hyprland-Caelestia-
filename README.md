@@ -1,6 +1,6 @@
 # Hyprland + Caelestia Dotfiles
 
-# My personal rice setup for Arch Linux, using Hyprland with the Caelestia shell.
+ My personal rice setup for Arch Linux, using Hyprland with the Caelestia shell.
 
 
 <img width="100%" alt="Captura 1" src="https://github.com/user-attachments/assets/7ead2ebf-855f-42ce-9232-ea42066121a9" />
